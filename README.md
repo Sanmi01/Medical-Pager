@@ -1,3 +1,3 @@
 # Medical-Pager
 
-## Live link: https://sanmi-medical-pager.netlify.app/
+## Live Site: https://sanmi-medical-pager.netlify.app/
